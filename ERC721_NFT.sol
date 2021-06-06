@@ -4,9 +4,9 @@ library AddressUtils
 {
 
   /**
-   * @dev Returns whether the target address is a contract.
-   * @param _addr Address to check.
-   * @return True if _addr is a contract, false if not.
+   * @dev Returns whether the target address is a contract
+   * @param _addr Address to check
+   * @return True if _addr is a contract, false if not
    */
   function isContract(
     address _addr
